@@ -15,7 +15,7 @@ import {
     commandYellow,
     commandGreen
 } from "./commands.js";
-import { queryTrafficLight } from "./querys.js";
+import { queryTrafficLight } from "./queries.js";
 
 const main = async () => {
     // Set the api
